@@ -1,0 +1,9 @@
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe.config
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.pdb
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.exe
+c:\users\yk123\documents\visual studio 2015\Projects\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb
